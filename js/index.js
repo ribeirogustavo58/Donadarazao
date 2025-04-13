@@ -8,8 +8,8 @@ if (parceiro) {
     document.querySelector('.conteudo__titulo').innerHTML += parceiro + ' ?';
 }
 const alertas = () => {
-  alert(`💞 Nunca desconfiei que escolheria qualquer outra opção ${parceiro}, agora clique em OK 🥰`);
-  location.href = "https://www.youtube.com/watch?v=r73ANL4ecnE&ab_channel=HenriqueeJuliano";
+  alert(`💞 Nunca desconfiei que escolheria qualquer outra opção, agora clique em OK 🥰`);
+  location.href = "https://www.youtube.com/watch?v=kOKUQsJm1r0&ab_channel=IndieLife7";
 };
 
 const zoeira = () => {
